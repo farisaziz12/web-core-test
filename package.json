@@ -1,0 +1,19 @@
+{
+  "name": "web-core-test",
+  "version": "1.0.0",
+  "description": "Testing playground for the web-core package",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/farisaziz12/web-core-test.git"
+  },
+  "author": "Faris Aziz",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/farisaziz12/web-core-test/issues"
+  },
+  "homepage": "https://github.com/farisaziz12/web-core-test#readme"
+}
